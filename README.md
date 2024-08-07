@@ -25,3 +25,4 @@ transactions = get_transactions()
 print(transactions)
 ```
 ## UML Sequence Diagram:
+![CS361 - Assignment 9 docx](https://github.com/user-attachments/assets/fcf8a87b-4eb5-4619-af85-cead8e4d0750)
